@@ -1,0 +1,9 @@
+technical skill
+
+
+             • artificial intelligence         • oops                     • data structures and algorithms       • machine learning
+             • database management       • os                          • deeplearning      
+
+languages: python, java, c, html/css, javascript, sql, nodejs, angular js, mongodb.
+developer tools: vs code, google colab, codeblock.
+technologies/frameworks: linux, github.

@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card {
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.skills {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.table {
+    margin-top: 15px;
+}
+
+.btn {
+    font-weight: bold;
+}
+
+
+
